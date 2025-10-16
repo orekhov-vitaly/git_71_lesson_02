@@ -30,3 +30,12 @@ li {
   gap: 30px;
   background-color: rgb(212, 236, 192);
 }
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background: #59a9f5;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
